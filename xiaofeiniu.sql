@@ -1,0 +1,4 @@
+SET NAMES UTF8;
+DROP DATABAST IF EXISTS xiaofeiniu;
+CREATE DATABASE xiaofeiniu CHARSET=UTF8;
+USE xiaofeiniu;
